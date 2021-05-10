@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl1.xsl"?>
+<oscars>
+  <peliculas>
+    <title>"Nomadland"</title>
+    <artist>Mejor Película</artist>
+  </peliculas>
+  <peliculas>
+    <title>"“Soul”</title>
+    <artist>Mejor Película de animación</artist>
+  </peliculas>
+  <peliculas>
+    <title>"“Otra ronda”</title>
+    <artist>Mejor Película internacional</artist>
+  </peliculas>
+  <peliculas>
+    <title>“Two Distant Strangers”</title>
+    <artist>Mejor cortometraje</artist>
+  </peliculas>
+  <peliculas>
+    <title>"“If Anything Happens I Love You”</title>
+    <artist>Mejor cortometraje de animacion</artist>
+  </peliculas>
+  <peliculas>
+    <title>“My Octopus Teacher”</title>
+    <artist>Mejor documental</artist>
+  </peliculas>
+  <peliculas>
+    <title>“Colette”</title>
+    <artist>Mejor cortometraje documental</artist>
+  </peliculas>
+.
+.
+</oscars>
